@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @santhoshmurali02
 - 👀 Sotware Engineer with 3+ years of experience
 - 🌱 I’m currently learning React and Node js
-- 
+
 🛠 Tech Stack
 
 💻   Java | Spring
