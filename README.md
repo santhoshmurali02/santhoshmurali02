@@ -4,15 +4,15 @@
 
 🛠 Tech Stack
 
-💻   Java | Spring
+  💻   Java | Spring
 
-🌐   HTML | CSS | Node.js | React.js
+  🌐   HTML | CSS | Node.js | React.js
 
-🛢   MySQL | Postgres
+  🛢   MySQL | Postgres
 
-🔧   Git | SVN
+  🔧   Git | SVN
 
-🖥   Music
+  🖥   Music
 
 <!---
 santhoshmurali02/santhoshmurali02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
