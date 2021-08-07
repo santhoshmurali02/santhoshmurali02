@@ -5,9 +5,13 @@
 🛠 Tech Stack
 
 💻   Java | Spring
+
 🌐   HTML | CSS | Node.js | React.js
+
 🛢   MySQL | Postgres
+
 🔧   Git | SVN
+
 🖥   Music
 
 <!---
